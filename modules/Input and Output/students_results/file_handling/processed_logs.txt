@@ -1,0 +1,3 @@
+Employee Log Summary
+---------------------
+Total Records: 4
