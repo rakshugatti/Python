@@ -1,0 +1,4 @@
+['-1', 'Bob', '75'] -> Invalid ID
+['103', 'Tom123', '80'] -> Invalid Name
+['104', 'David', '150'] -> Invalid Marks
+['abc', 'Mike', '70'] -> Data type error
