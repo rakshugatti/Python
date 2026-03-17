@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2026-03-17 21:16:17",
+        "level": "INFO",
+        "message": "Application started"
+    },
+    {
+        "timestamp": "2026-03-17 21:16:17",
+        "level": "WARNING",
+        "message": "Disk space low"
+    },
+    {
+        "timestamp": "2026-03-17 21:16:17",
+        "level": "ERROR",
+        "message": "Failed to connect to database"
+    },
+    {
+        "timestamp": "2026-03-17 21:16:17",
+        "level": "INFO",
+        "message": "User logged in"
+    }
+]
