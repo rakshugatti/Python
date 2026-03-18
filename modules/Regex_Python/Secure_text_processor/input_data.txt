@@ -1,0 +1,5 @@
+CustomerName: johnDoe
+Message:   This   is   a   sample   text   with   extra   spaces.
+
+Transaction: Card 1234-5678-9876-5432 used on 03/18/2026
+Backup Card: 4321 8765 0000 1111 used on 12/25/2025

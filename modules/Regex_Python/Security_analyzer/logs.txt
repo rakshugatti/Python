@@ -1,0 +1,10 @@
+User accessed page <div>Welcome</div><div>Dashboard</div> on 12/03/2025 from IP 192.168.1.10
+Transaction completed: ₹5000 and $200 on 13/03/2025
+
+Log: Start process A End B End
+
+Repeated attempts: aaaa
+
+Payments: 100USD 200INR 300USD
+
+Amounts detected: ₹700 $400 ₹900
